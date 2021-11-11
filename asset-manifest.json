@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/challenge-time-tracking/static/css/main.5d1d1d78.chunk.css",
+    "main.js": "/challenge-time-tracking/static/js/main.f719bb87.chunk.js",
+    "main.js.map": "/challenge-time-tracking/static/js/main.f719bb87.chunk.js.map",
+    "runtime-main.js": "/challenge-time-tracking/static/js/runtime-main.f73da239.js",
+    "runtime-main.js.map": "/challenge-time-tracking/static/js/runtime-main.f73da239.js.map",
+    "static/js/2.b60675a0.chunk.js": "/challenge-time-tracking/static/js/2.b60675a0.chunk.js",
+    "static/js/2.b60675a0.chunk.js.map": "/challenge-time-tracking/static/js/2.b60675a0.chunk.js.map",
+    "index.html": "/challenge-time-tracking/index.html",
+    "static/css/main.5d1d1d78.chunk.css.map": "/challenge-time-tracking/static/css/main.5d1d1d78.chunk.css.map",
+    "static/js/2.b60675a0.chunk.js.LICENSE.txt": "/challenge-time-tracking/static/js/2.b60675a0.chunk.js.LICENSE.txt",
+    "static/media/icon-ellipsis.a57a4ac8.svg": "/challenge-time-tracking/static/media/icon-ellipsis.a57a4ac8.svg",
+    "static/media/index.css": "/challenge-time-tracking/static/media/icon-work.a3f124e5.svg",
+    "static/media/image-jeremy.71cd41f1.png": "/challenge-time-tracking/static/media/image-jeremy.71cd41f1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f73da239.js",
+    "static/js/2.b60675a0.chunk.js",
+    "static/css/main.5d1d1d78.chunk.css",
+    "static/js/main.f719bb87.chunk.js"
+  ]
+}
